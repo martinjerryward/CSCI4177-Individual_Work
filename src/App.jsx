@@ -9,6 +9,7 @@ function App() {
   return (
     <>
      <div>hello world!</div>
+     <div>  this is a mirror test!</div>
     </>
   )
 }
