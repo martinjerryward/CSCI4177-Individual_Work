@@ -1,0 +1,4 @@
+Netlify - https://tutorial0001.netlify.app/
+GitLab Individual - https://git.cs.dal.ca/martinw/tutorial1
+Group GitLab Repo - https://git.cs.dal.ca/porras/CSCI4177-Grp-02
+Individual GitLab Branch - https://git.cs.dal.ca/porras/CSCI4177-Grp-02/-/tree/martin?ref_type=heads
