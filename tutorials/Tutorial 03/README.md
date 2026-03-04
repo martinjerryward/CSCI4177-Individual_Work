@@ -2,7 +2,7 @@
 
 **Date Created:** March 2, 2026  
 **Last Modified:** March 3, 2026  
-**Lab URL:** [heroic-clafoutis-520b47.netlify.app](heroic-clafoutis-520b47.netlify.app)  
+**Lab URL:** [https://heroic-clafoutis-520b47.netlify.app/](https://heroic-clafoutis-520b47.netlify.app/)  
 **Github:** [https://github.com/martinjerryward/CSCI4177-Individual_Work](https://github.com/martinjerryward/CSCI4177-Individual_Work)  
 **Gitlab Individual:** [https://git.cs.dal.ca/martinw/tutorial1](https://git.cs.dal.ca/martinw/tutorial1)
 
