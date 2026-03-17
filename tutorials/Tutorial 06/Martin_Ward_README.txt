@@ -34,6 +34,8 @@ AI REFERENCES
 - Google Gemini: Used for troubleshooting Render deployment errors, 
   debugging MongoDB SSL handshake failures.
 
+  prompt "I'm unable to use curl commands and get data from my mongoDB via render what are some potential solutions and reasons this is happening?"
+
 - github copilot (student account via dal) is integrated in my vscode and I use it for general formatting commenting and assistance.
 
 NOTES
